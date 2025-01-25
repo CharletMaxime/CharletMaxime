@@ -1,7 +1,7 @@
 <h1>Hi everyone, there is a short description about myself</h1>
 <p>I am currently studying in Computer Science at IUT de Dijon-Auxerre-Nevers and I am in second years of studies.</p>
 <p>I have a real passion for the web application development but realizing desktop applications makes me happy too !</p>
-
+<p>To have an overview of my projects, I will put a link here to my Portfolio </p>
 <h1>My languages that I like to code with</h1>
 <h2> Web </h2>
   <p>
@@ -28,4 +28,4 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=cplusplus&logoSize=auto">
 </p>
 
-<p>To have an overview of my projects, I will put a link here to my Portfolio </p>
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=CharletMaxime&show_icons=true&theme=synthwave)]
