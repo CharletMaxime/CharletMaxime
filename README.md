@@ -22,10 +22,15 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/-rebeccapurple?style=for-the-badge&logo=c&logoSize=auto">
 </p>
 
-<h1>Languages that I am coding with to learn it</h1>
+<h1>What I am currently learning</h1>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=cplusplus&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&labelColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NuxtJS-00DC82?style=flat-square&logo=nuxt&labelColor=darkgreen">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&labelColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&labelColor=black">
+
 </p>
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=CharletMaxime&show_icons=true&theme=synthwave)]
