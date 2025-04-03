@@ -1,7 +1,8 @@
 <h1>Hi everyone, there is a short description about myself</h1>
 <p>I am currently studying in Computer Science at IUT de Dijon-Auxerre-Nevers and I am in second years of studies.</p>
 <p>I have a real passion for the web application development but realizing desktop applications makes me happy too !</p>
-<a href="https://portfolio-react-eight-lyart.vercel.app/" target="_blank"> My Portfolio </a>
+<a href="https://portfolio-react-eight-lyart.vercel.app/" target="_blank"> My Portfolio (not complete)</a>
+<p>For the moment all my repositories are private (or internal to IUT of Dijon)</p>
 <h1>My languages that I like to code with</h1>
 <h2> Web </h2>
   <p>
